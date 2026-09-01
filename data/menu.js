@@ -1,4 +1,4 @@
-// CAFE MENU DATA — Admin panelinden güncellendi: 01.09.2026 17:17:36
+// CAFE MENU DATA — Admin panelinden güncellendi: 01.09.2026 17:24:33
 
 const CAFE_INFO = {
   "name": "Afife Hanım Gurme Coffee Shop",
@@ -170,7 +170,7 @@ const PRODUCTS = [
     "categoryId": "caylar",
     "name": "Çay (Demlik)",
     "description": "Geleneksel demlik çay, iki bardak.",
-    "price": 35,
+    "price": 30,
     "image": "",
     "popular": false,
     "active": true
