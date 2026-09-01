@@ -1,4 +1,4 @@
-// CAFE MENU DATA — Admin panelinden güncellendi: 01.09.2026 17:02:08
+// CAFE MENU DATA — Admin panelinden güncellendi: 01.09.2026 17:17:36
 
 const CAFE_INFO = {
   "name": "Afife Hanım Gurme Coffee Shop",
